@@ -7,6 +7,7 @@ This repository contains Python code for predicting stock market trends using ma
 1. **Hyperparameters_Stock_Value_Based_on_Past_Closing_Volume_Extra_features.ipynb:**
    - This Jupyter Notebook file focuses on predicting stock market trends for the company 'NIO' (NIO Inc.). It utilizes historical stock market data downloaded using the 'yfinance' library.
    - The code calculates technical indicators such as Simple Moving Averages (SMA) and Relative Strength Index (RSI) to capture patterns and trends in the data.
+   - It creates a Bi-LSTM model and conducts hyperparameter optimization
 
 2. **Stock_Prediction_Based_on_Past_Closing_and_Volume.ipynb:**
    - This Jupyter Notebook file serves as a template for predicting stock market trends for other companies. Users can modify the `stock_list` variable to select different companies for analysis.
