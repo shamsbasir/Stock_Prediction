@@ -28,4 +28,4 @@ This repository contains Python code for predicting stock market trends using ma
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/stock-market-prediction.git
+   git clone https://github.com/shamsbasir/Stock_Prediction.git
